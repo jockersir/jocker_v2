@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/jockersir">jockersir</a> to make 
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/jocker_v2-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/Jockersirv2)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jockersir/jocker_v2) 
