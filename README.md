@@ -3,64 +3,64 @@
         <img src="IMG-20211210-WA0528.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="MAALUTTY_V3" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="jocker_v2" src="https://img.shields.io/badge/jocker_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/jockersir"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/jocker_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/jockersir">jockersir</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jockersir/jocker_v2&title=jocker_v2%20Views)
 
 ## Setup
 <div align="center">
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY_V3-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/jocker_v2-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jockersir/jocker_v2) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/jockersir/jocker_v2
+$ cd jocker_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node maalutty.js
+$ node jocker_v2.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/jockersir/jocker_v2
+$ cd jocker_v2
 $ npm i
-$ node maalutty.js
+$ node jocker_v2.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V3">
+  <a href="httsp://github.com/jockersir/jocker_v2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nijin-husni/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/jockersir/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/jockersir?color=blue&style=flat-square"></a>
+<a href="https://github.com/jockersir/jocker_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jockersir/jocker_v2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/jockersir/jocker_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jockersir/jocker_v2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -100,9 +100,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![nijin-husni](https://github.com/nijin-husni.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
+  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![jockersir](https://github.com/jockersir.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
 ----|----|----
-[Ameen-ser](https://github.com/Ameen-ser) | [nijin-husni](https://github.com/nijin-husni) | [luciferking1](https://github.com/luciferking1) 
+[Ameen-ser](https://github.com/Ameen-ser) | [jockersir](https://github.com/jockersir) | [luciferking1](https://github.com/luciferking1) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Developer, Base, Bug Fixes, Modules
   </div>
     
