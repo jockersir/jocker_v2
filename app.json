@@ -8,7 +8,7 @@
     "success_url": "https://github.com/nijin-husni/MAALUTTY_V3",
     "stack": "container",
     "env": {
-        "MAALUTTY_CODE": {
+        "JOKER_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
