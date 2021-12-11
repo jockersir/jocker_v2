@@ -17,7 +17,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️jocker_v2💙
 
 
 
@@ -36,7 +36,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
 *sticker commands* :https://github.com/jockeesir/uploads/tree/main/stickers.
 
-❤️jocker💙
+❤️jocker_v2💙
 ■□ ~Devil sir~■□ 
 
 `}) 
