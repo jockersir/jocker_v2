@@ -28,8 +28,7 @@ module.exports = {
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? '💖Devil_sir💖' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '+917025868709' : process.env.NUMBER,   
-    OA_NAME: process.env.DEPLOYER === undefined ? 'Devil_sir
-' : process.env.DEPLOYER,
+    OA_NAME: process.env.DEPLOYER === undefined ? 'Devil_sir' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By jocker' : process.env.ALL_CAPTION,
     MENTION: process.env.TAG_REPLY === undefined ? '917025868709@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
