@@ -10,7 +10,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg";
+    r_text[0] = "https://i.ibb.co/BsVW6fM/IMG-20211210-WA0528.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,28 +19,25 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
 
-*bot making video* : https://youtu.be/jF8wF1KdyOw
 
 
-*owner number husni* :https://wa.me/917025868709.
+*owner number Devil* :https://wa.me/918848477621.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+*owner id instagram* :https://instagram.com/athul_kochu_09871?utm_medium=copy_link.
+.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*github* : https://github.com/jockersir/jocker_v2.
 
 
-*github* : https://github.com/nijin-husni/Maalutty.
+*audio commands* :https://github.com/jockersir/uploads/tree/main/bgm.
 
 
-*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
+*sticker commands* :https://github.com/jockeesir/uploads/tree/main/stickers.
 
-
-*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
-
-❤️Maalutty💙
-■□ ~NIJIN~ AND ~HUSNI~■□ 
+❤️jocker💙
+■□ ~Devil sir~■□ 
 
 `}) 
 
