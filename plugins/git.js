@@ -31,10 +31,10 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 *github* : https://github.com/jockersir/jocker_v2.
 
 
-*audio commands* :https://github.com/jockersir/uploads/tree/main/bgm.
+*audio commands* :https://github.com/jockersir/uploads/tree/main/bgm
 
 
-*sticker commands* :https://github.com/jockeesir/uploads/tree/main/stickers.
+*sticker commands* :https://github.com/jockersir/media/tree/main/stickers.
 
 ❤️jocker_v2💙
 ■□ ~Devil sir~■□ 
