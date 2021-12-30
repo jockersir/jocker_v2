@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 Devil.
+/* Copyright (C) 2020 nijin-husni.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-- Devil - Devil
+nijin-husni - husni,nijin
 */
 
 const Asena = require('../events');
