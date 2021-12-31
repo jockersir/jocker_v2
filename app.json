@@ -1,6 +1,6 @@
 {
     "name": "jocker_v2",
-    "description": "jocker is the Modified Version of WhatsAsena, Made By Rafi with Baileys.",
+    "description": "jocker is the Modified Version of WhatsAsena, Made By Devil with Baileys.",
     "logo": "https://i.ibb.co/BsVW6fM/IMG-20211210-WA0528.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/nijin-husni/MAALUTTY_V3",
@@ -190,8 +190,8 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝ \n \n type .list of commands😎"
-        },
+            "value": "Jocker_v2 made by vpfa devil"
+ 
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
