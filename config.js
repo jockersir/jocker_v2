@@ -23,6 +23,8 @@ module.exports = {
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
+    ALIVEBTN: process.env.ALIVE_BUTTON === undefined ? 'ᴊᴏᴋᴇʀsᴇʀ🥂' : process.env.ALIVE_BUTTON,
+    ALIVEBTN2: process.env.ALIVE_BUTTON2 === undefined ? 'ᴘᴏᴡᴇʀᴇᴇsʜ🤩' : process.env.ALIVE_BUTTON2,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
