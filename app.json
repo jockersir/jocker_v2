@@ -76,7 +76,7 @@
             "required": true,
             "value": "false"
         },
-              "BGM_DURATION": {
+        "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
             "required": false,
             "value": "39999600"
@@ -190,7 +190,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "
+            "value": "      \n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗        \n║╔╗║║║─╚║║╝║╚╦╝║║╦╝        \n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗        \n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝ \n\n *╔✘ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*»\n*║✘Bᴏᴛ ɴᴀᴍᴇ :* 💝ᴊᴏᴋᴇʀsᴇʀ💝\n*║✘ Oᴡɴᴇʀ : ꪶ͢devilꫂ\n*║✘Wᴏʀᴋ ᴛʏᴘᴇ : public\n*║✘ Pʀᴇғɪx : [!.;]\n *╚✘*\n           *ꪶ͢💝ᴊᴏᴋᴇʀsᴇʀ💝ꫂ⁩*         \n\n*╭◪ ᴄᴏᴅᴅᴇᴅ ʙʏ ꪶ͢devilꫂ*\n*╰─────────────────❋ཻུ۪۪⸙*\n"
         },
         "ALIVE_BUTTON": {
             "description": "Customizable Alive BUTTON.",
