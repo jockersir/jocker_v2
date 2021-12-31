@@ -191,8 +191,16 @@
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
             "value": "\n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝ \n \n type .list of commands😎"
-"
- 
+        },
+        "ALIVE_BUTTON": {
+            "description": "Customizable Alive BUTTON.",
+            "required": false,
+            "value": "ᴊᴏᴋᴇʀsᴇʀ🥂"
+        "ALIVE_BUTTON2": {
+            "description": "Customizable Alive BUTTON.",
+            "required": false,
+            "value": "ᴘᴏᴡᴇʀᴇᴇsʜ🤩"
+        },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
