@@ -190,7 +190,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "Jocker_v2 made by vpfa devil"
+            "value": "Jocker made by vpfa devil"
  
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
