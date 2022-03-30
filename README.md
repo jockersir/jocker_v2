@@ -83,7 +83,7 @@ Click WA logo to Join public bot Group👇
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/athul_devil-000?utm_medium=copy_link)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/athul_devil_000?utm_medium=copy_link)
 
 
 ### ⚠️ Warning! 
